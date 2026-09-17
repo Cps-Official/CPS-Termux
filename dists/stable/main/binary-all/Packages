@@ -1,0 +1,17 @@
+Package: cps
+Version: 2.0.0
+Architecture: all
+Maintainer: Cps-Official
+Depends: python
+Section: devel
+Priority: optional
+Description: CP+* programming language
+ CP+* (C-Plus-Plus-Star) programming language
+ interpreter and development tools.
+Filename: dists/stable/main/binary-all/cps_2.0.0_all.deb
+Size: 241680
+MD5Sum: 33403e4cf4653b5a1f351683ed75a746
+SHA1: 3b7e2d2f4202ecb3e5dc733ae14276b0a08757cc
+SHA256: d3b3dcca571c7b0d3b63e8165e050d02c911347bdb47b89ada094e50040ba861
+SHA512: 93969a676184e6ac0190f73a37141ab78f09eb3639ec7f59f2f453e3bd7044f4327f4ba9b5b80e257680cc4592f54121bb219d98152ea963f8719ecba714a609
+
